@@ -9,7 +9,7 @@ Component Type | Details
 -------:|:-------------------------
 CPU     | Octa-core (8 cores),
 4x2.0GHz Cortex-A72,
-4x2.0 GHz Cortex-A55,
+4x2.0GHz Cortex-A55,
 MT6771/MT6771CV/MT6771T Mediatek Helio P60/P70
 GPU     | Mali-G72 MP3
 Memory  | 3GB/4GB/6GB RAM
